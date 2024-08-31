@@ -38,8 +38,7 @@ Future Work:
 Conclusion:
 
 The Email Spam Detection project demonstrates the effectiveness of machine learning in classifying emails as spam or not spam. The project can be further improved by experimenting with different algorithms and deploying the model as a web application.
-
 -Accuracy: 95%
-- Precision: 92%
-- Recall: 96%
+-Precision: 92%
+-Recall: 96%
 
